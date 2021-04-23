@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/65861136/115913226-fe098680-a478-11eb-899d-235fdcde1a11.png)
 
-# a spinner Adapter App
+# A Spinner Adapter App
 You can add a spinner to your layout with the Spinner object. You should usually do so in your XML layout with a `<Spinner>` element. For example:
 
 ```
